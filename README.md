@@ -1,3 +1,5 @@
+**No longer maintained. Look intead at https://github.com/intrinsisch/intrinsisch**
+
 # intrinsisch/playground
 
 ## Prerequisites
